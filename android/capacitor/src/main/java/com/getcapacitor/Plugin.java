@@ -1052,5 +1052,4 @@ public class Plugin {
     protected String getLogTag() {
         return Logger.tags(this.getClass().getSimpleName());
     }
-
 }
