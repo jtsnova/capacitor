@@ -1053,5 +1053,4 @@ public class Plugin {
         return Logger.tags(this.getClass().getSimpleName());
     }
 
-    protected Boolean
 }
